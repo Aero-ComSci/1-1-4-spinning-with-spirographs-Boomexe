@@ -33,10 +33,12 @@ Use the color() method to change the turtle’s color.
 Use the forward() and right() methods to draw the sides of the squares.
 
 
-4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
-5. Answer to step 21
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
-7. Give an example of an undecidable problem, attach code.
+4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on]
+5. ![image](https://github.com/user-attachments/assets/8550b0cf-d26e-4443-931a-5bd7c72cc39f)
+
+6. Answer to step 21
+7. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+8. Give an example of an undecidable problem, attach code.
    
 
 
