@@ -45,7 +45,7 @@ The flowchart represents a loop that will endlessly generate circles until answe
 ```python
 age = int(input("enter your birth year:"))
 while (age >= 2000):
-  age = age + 1
+  age += 1
 print(age)
 ```
 
