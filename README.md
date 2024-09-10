@@ -34,11 +34,18 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 
 4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on]
-5. ![image](https://github.com/user-attachments/assets/8550b0cf-d26e-4443-931a-5bd7c72cc39f)
+![image](https://github.com/user-attachments/assets/8550b0cf-d26e-4443-931a-5bd7c72cc39f)
 
-6. Answer to step 21
-7. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
-8. Give an example of an undecidable problem, attach code.
-   
+5. Answer to step 21
+The flowchart represents a loop that will endlessly generate circles until answer = "n". 
+6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+![image](https://github.com/user-attachments/assets/a14d9aac-d8dd-4746-a104-0c4e1369be10)
 
+7. Give an example of an undecidable problem, attach code.
+```python
+age = int(input("enter your birth year:"))
+while (age >= 2000):
+  age = age + 1
+print(age)
+```
 
